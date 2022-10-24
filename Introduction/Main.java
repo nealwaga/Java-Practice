@@ -4,5 +4,7 @@ public class Main {
 
         System.out.print("I am learning Java. ");
         System.out.print("It is awesome so far.");
+
+        System.out.println(3 * 3);
     }
 }
