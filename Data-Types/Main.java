@@ -8,5 +8,8 @@ public class Main {
 
         double theNum = 19.99d;
         System.out.println(theNum);
+
+        boolean isJavaFun = true;
+        System.out.println(isJavaFun);
     }
 }
