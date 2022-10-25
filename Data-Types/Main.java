@@ -11,5 +11,8 @@ public class Main {
 
         boolean isJavaFun = true;
         System.out.println(isJavaFun);
+
+        char myGrade = 'B';
+        System.out.println(myGrade);
     }
 }
