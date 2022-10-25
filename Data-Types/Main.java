@@ -14,5 +14,8 @@ public class Main {
 
         char myGrade = 'B';
         System.out.println(myGrade);
+
+        String greeting = "Hello bighead.";
+        System.out.println(greeting);
     }
 }
