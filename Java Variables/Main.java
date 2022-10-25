@@ -13,6 +13,10 @@ public class Main {
       String lastName = "Smith";
       String fullName = firstName + lastName;
       System.out.println(fullName);
+
+      // Declaring multiple variables
+      int x = 50, y = 100, z = 150;
+      System.out.println(x + y + z);
     }
   }
   
