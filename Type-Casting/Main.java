@@ -5,5 +5,12 @@ public class Main {
         double myDouble = myInt;
         System.out.println(myInt);
         System.out.println(myDouble);
+
+
+        // Narrowing Casting
+        double aDouble = 99.99d;
+        int anInt = (int) aDouble; //Manual casting: double to int
+        System.out.println(aDouble);
+        System.out.println(anInt);
     }
 }
